@@ -25,7 +25,7 @@ const CONFIG = {
   shopLocation: null,
 
   // رابط الـ CSV المنشور من جوجل شيت (لو تُرك فارغًا تُستخدم data.js)
-  sheetUrl: "",   // الصق هنا رابط CSV بعد نشر جوجل شيت (اتركه فارغًا لاستخدام data.js)
+  sheetUrl: "https://docs.google.com/spreadsheets/d/e/2PACX-1vS1YmoklI8DQmwPpoh9RgGasXAv_Y-LWrhMUHZv0cuGfCsY0Bda0itldxJ-dtmiVWeKbHXYFnRBvs23/pub?gid=0&single=true&output=csv",   // الصق هنا رابط CSV بعد نشر جوجل شيت (اتركه فارغًا لاستخدام data.js)
 
   // الأقسام التي أسعارها بالكيلو (في بيانات data.js فقط؛ في الشيت تُحدَّد الوحدة بعمود "الوحدة")
   kgSections: [],
